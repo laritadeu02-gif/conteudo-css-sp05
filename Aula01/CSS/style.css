@@ -1,0 +1,47 @@
+body {
+    background-color: coral;
+}
+
+h2 {
+    background-color: tomato;
+}
+
+p {
+    background-color: ghostwhite;
+}
+
+div {
+    background-color: indianred;
+}
+
+.div1, .div2, .div3, .div4 {
+    background-color: crimson;
+}
+
+.div1 {
+    opacity: 0.2;
+}
+
+.div2 {
+    opacity: 0.5;
+}
+
+.div3 {
+    opacity: o.7;
+}
+
+#div1 {
+    background-color: rgba(139,0,0,0.2);
+}
+
+#div2 {
+    background-color: rgba(139,0,0,0.5);
+}
+
+#div3 {
+    background-color: rgba(139,0,0,0.7);
+}
+
+#div4 {
+    background-color: rgba(139,0,0,1)
+}
