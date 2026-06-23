@@ -18,14 +18,14 @@ body {
 
 /* ---------------------------------------------------- */
 
-.p-20em {
+.p-em-ex1 {
     font-size: 1.25em;
 }
 
-.p-25px {
+.p-em-ex2 {
     font-size: 1.56em;
 }
 
-.p-30px {
+.p-em-ex3 {
     font-size: 1.88em;
 }
