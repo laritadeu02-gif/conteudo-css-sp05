@@ -1,0 +1,30 @@
+body {
+    background-color:lightgrey;
+    font-family: monospace;
+}
+
+.link-linkedin {
+    color: black;
+    display: inline-block;
+    width: 30px;
+    height: 30px;
+}
+
+.icone-linkedin:hover {
+    color:antiquewhite;
+}
+
+.icone-linkedin {
+    font-size: 30px;
+}
+
+.icone-codigo {
+    font-size: 60px;
+}
+
+.icone-codigo:hover {
+    color: crimson;
+    
+}
+
+
