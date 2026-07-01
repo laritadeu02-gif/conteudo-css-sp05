@@ -1,0 +1,51 @@
+body {
+    background-color: green;
+    font-family: monospace;
+}
+
+h2 {
+    color: goldenrod;
+}
+
+h3 {
+    color: darkblue;
+}
+
+.ex1 {
+    background-color: goldenrod;
+    display: flex;
+    height: 250px;
+    justify-content: center;
+    align-items: center;
+}
+
+.ex1 div {
+    width: 100px;
+    height: 100px;
+    margin: 20px;
+    background-color: darkblue;
+    color: ghostwhite;
+    text-align: center;
+    align-content: center;
+}
+
+/* ----------------------------------------------- */
+
+.ex2 {
+    background-color: goldenrod;
+    display: flex;
+    height: 250px;
+    justify-content: center;
+    align-items: flex-start;
+}
+
+.ex2 div {
+    width: 100px;
+    height: 20px;
+    margin: 20px;
+    background-color: darkblue;
+    color: ghostwhite;
+    text-align: center;
+    align-content: center;
+}
+
